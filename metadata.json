@@ -1,0 +1,6 @@
+{
+  "name": "Mina Player",
+  "description": "A gorgeous, neon-themed multi-format music and video media player with custom equalizers, sleep timers, and a smart Time Watch listener.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
